@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @media(max-width: 500px) {
 
     .principal {
@@ -81,4 +82,55 @@
         max-width: 160px;
     }
 
+=======
+@media (max-width: 375px) {
+
+    body {
+        max-width: 375px;
+        background-color: hsl(0, 0%, 100%);
+        margin: 0;
+    }
+
+    .principal {
+        max-width: 375px;
+
+    }
+
+    .cabecalho {
+        text-align: center;
+        max-width: 350px;
+
+    }
+
+    .cabecalho p {
+        padding: 5px;
+    }
+
+    .preparo {
+        max-width: 300px;
+
+    }
+
+    .ingredientes li {
+        padding-right: 20px;
+    }
+
+    img {
+        border-radius: 0;
+        margin-top: 0;
+        max-width: 375px;
+        max-height: 230px;
+
+    }
+
+    hr {
+        max-width: 330px;
+    }
+
+    table th,
+    td {
+        max-width: 100px;
+    }
+
+>>>>>>> fb04d3efff462818d2836742446c3bfb38a06b30
 }
