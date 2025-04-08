@@ -1,4 +1,3 @@
-=======
 # Segundo Desafio FrontEnd Mentor Recipe-page-main
 Realizado durante estudos HTML5 e CSS3 intermediário curso DevQuest.🚀
 ## Tecnologias utlizadas
