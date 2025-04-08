@@ -10,7 +10,6 @@
 
 body {
     background-color: hsl(330, 100%, 98%);
-    margin-top: 50px;
     margin: 50px 0px 60px 0px;
     display: flex;
     flex-direction: column;
